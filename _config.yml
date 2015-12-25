@@ -15,7 +15,7 @@ baseurl:          /
 
 author:
   name:           '韩宏敏的博客'
-  url:            https://hanhongmin.com
+  url:            http://hanhongmin.com
 
 paginate:         5
 
