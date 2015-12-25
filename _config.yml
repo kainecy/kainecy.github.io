@@ -22,7 +22,7 @@ url:              http://hanhongmin.com
 baseurl:          /
 
 author:
-  name:           '韩宏敏的博客'
+  name:           '韩宏敏'
   url:            http://hanhongmin.com
 
 paginate:         5
