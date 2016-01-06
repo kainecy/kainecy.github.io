@@ -3,7 +3,7 @@ layout: post
 title: Mac OS X EI Capitan安装Scrapy的坑
 ---
 
-前段可以参考 https://xdgcc.github.io/2015/10/04/%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%AE%8C%E5%85%A8Mac%E5%AE%89%E8%A3%85Scrapy%E6%8C%87%E5%8D%97/。  
+前段可以参考[这里](https://xdgcc.github.io/2015/10/04/%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%AE%8C%E5%85%A8Mac%E5%AE%89%E8%A3%85Scrapy%E6%8C%87%E5%8D%97/)。  
 有一个坑，在删除老版本的`six`包的时候，可能文件被系统保护了，不允许操作。  
 这是就需要先把这个SIP关掉，删掉低版本，装好高版本之后再打开。  
 
