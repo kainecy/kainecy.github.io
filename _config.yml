@@ -9,7 +9,6 @@ kramdown:
   use_coderay: true
   syntax_highlighter: rouge
   toc_levels:     1..6
-  smart_quotes:   lsquo,rsquo,ldquo,rdquo
 highlighter:      pygments
 
 # Permalinks
