@@ -1,13 +1,15 @@
 # Dependencies
-markdown:         redcarpet
-# kramdown:
-#   input: GFM
-#   extensions:
-#     - autolink
-#     - footnotes
-#     - smart
-#   use_coderay: true
-#   syntax_highlighter: rouge
+markdown:         kramdown
+kramdown:
+  input: GFM
+  extensions:
+    - autolink
+    - footnotes
+    - smart
+  use_coderay: true
+  syntax_highlighter: rouge
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
 highlighter:      pygments
 
 # Permalinks
