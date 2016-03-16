@@ -1,15 +1,15 @@
 # Dependencies
-markdown:         kramdown
-kramdown:
-  input: GFM
-  extensions:
-    - autolink
-    - footnotes
-    - smart
-  use_coderay: true
-  syntax_highlighter: rouge
-  toc_levels:     1..6
-# markdown: redcarpet
+# markdown:         kramdown
+# kramdown:
+#   input: GFM
+#   extensions:
+#     - autolink
+#     - footnotes
+#     - smart
+#   use_coderay: true
+#   syntax_highlighter: rouge
+#   toc_levels:     1..6
+# # markdown: redcarpet
 
 # redcarpet:
 #   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript","tables", "with_toc_data"]
